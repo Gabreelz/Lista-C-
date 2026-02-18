@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\bin\Debug\net10.0\Ex06.exe
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\bin\Debug\net10.0\Ex06.deps.json
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\bin\Debug\net10.0\Ex06.runtimeconfig.json
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\bin\Debug\net10.0\Ex06.dll
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\bin\Debug\net10.0\Ex06.pdb
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\obj\Debug\net10.0\Ex06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\obj\Debug\net10.0\Ex06.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\obj\Debug\net10.0\Ex06.AssemblyInfo.cs
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\obj\Debug\net10.0\Ex06.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\obj\Debug\net10.0\Ex06.dll
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\obj\Debug\net10.0\refint\Ex06.dll
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\obj\Debug\net10.0\Ex06.pdb
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\obj\Debug\net10.0\Ex06.genruntimeconfig.cache
+C:\Users\User\Desktop\Lista_01\Ex06\Ex06\obj\Debug\net10.0\ref\Ex06.dll
