@@ -1,0 +1,14 @@
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\bin\Debug\net10.0\Exercicio25.exe
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\bin\Debug\net10.0\Exercicio25.deps.json
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\bin\Debug\net10.0\Exercicio25.runtimeconfig.json
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\bin\Debug\net10.0\Exercicio25.dll
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\bin\Debug\net10.0\Exercicio25.pdb
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\obj\Debug\net10.0\Exercicio25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\obj\Debug\net10.0\Exercicio25.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\obj\Debug\net10.0\Exercicio25.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\obj\Debug\net10.0\Exercicio25.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\obj\Debug\net10.0\Exercicio25.dll
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\obj\Debug\net10.0\refint\Exercicio25.dll
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\obj\Debug\net10.0\Exercicio25.pdb
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\obj\Debug\net10.0\Exercicio25.genruntimeconfig.cache
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio25\Exercicio25\obj\Debug\net10.0\ref\Exercicio25.dll

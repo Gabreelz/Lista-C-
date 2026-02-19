@@ -1,0 +1,14 @@
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\bin\Debug\net10.0\Exercicio19.exe
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\bin\Debug\net10.0\Exercicio19.deps.json
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\bin\Debug\net10.0\Exercicio19.runtimeconfig.json
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\bin\Debug\net10.0\Exercicio19.dll
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\bin\Debug\net10.0\Exercicio19.pdb
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\obj\Debug\net10.0\Exercicio19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\obj\Debug\net10.0\Exercicio19.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\obj\Debug\net10.0\Exercicio19.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\obj\Debug\net10.0\Exercicio19.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\obj\Debug\net10.0\Exercicio19.dll
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\obj\Debug\net10.0\refint\Exercicio19.dll
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\obj\Debug\net10.0\Exercicio19.pdb
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\obj\Debug\net10.0\Exercicio19.genruntimeconfig.cache
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Exercicio19\Exercicio19\obj\Debug\net10.0\ref\Exercicio19.dll
