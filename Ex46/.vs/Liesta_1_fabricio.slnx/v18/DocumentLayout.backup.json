@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Liesta_1_fabricio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05F352BD-ACF2-D8BE-233E-9EA4EB465621}|Ex46.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\liesta_1_fabricio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F352BD-ACF2-D8BE-233E-9EA4EB465621}|Ex46.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAF0E44-C6FC-4108-8F6C-D22B94232883}|..\\Ex60\\Ex60.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\ex60\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062D9614-FD6C-436D-A59D-EDD50966B1E1}|..\\Ex59\\Ex59.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\ex59\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C568548-E158-4AD5-8A18-860F464F2B29}|..\\Ex58\\Ex58.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\ex58\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98121ECD-79FD-4927-B064-FCA50F949AC2}|..\\Ex57\\Ex57.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\ex57\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D8E90B-F611-4A94-9703-7B417BA51F66}|..\\Ex56\\Ex56.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\ex56\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08832E2D-CE18-43B9-BD4D-7A2D80CE6036}|..\\Ex55\\Ex55.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\ex55\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2026C72A-7186-4B9F-BC9B-E30AF95B0A4F}|..\\Ex54\\Ex54.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\ex54\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633FB452-3AFD-46F6-9B39-F7A159497C53}|..\\Ex53\\Ex53.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\ex53\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B30936-1D06-4EC0-AEC8-3D36B7ECBF93}|..\\Ex52\\Ex52.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\ex52\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD00E774-48F3-4CDA-829C-62904D2647DD}|..\\Ex51\\Ex51.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\ex51\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D51030-FD82-4FAC-B9C8-9A058FC0F13E}|..\\Ex50\\Ex50.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\ex50\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1737717-9682-41EF-AB4F-172140642DB1}|..\\Ex49\\Ex49.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\ex49\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2709A8C5-3CC2-41AA-B5AF-198F6E0E4EFA}|..\\48\\Ex48.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\48\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex60\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex60\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex60\\Program.cs",
+              "RelativeToolTip": "..\\Ex60\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:39:04.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex59\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex59\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex59\\Program.cs",
+              "RelativeToolTip": "..\\Ex59\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:38:31.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex58\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex58\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex58\\Program.cs",
+              "RelativeToolTip": "..\\Ex58\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:37:24.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex57\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex57\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex57\\Program.cs",
+              "RelativeToolTip": "..\\Ex57\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:36:46.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex56\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex56\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex56\\Program.cs",
+              "RelativeToolTip": "..\\Ex56\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:35:11.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Liesta_1_fabricio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Liesta_1_fabricio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:08:53.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex55\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex55\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex55\\Program.cs",
+              "RelativeToolTip": "..\\Ex55\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:34:38.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex54\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex54\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex54\\Program.cs",
+              "RelativeToolTip": "..\\Ex54\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:34:03.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex53\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex53\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex53\\Program.cs",
+              "RelativeToolTip": "..\\Ex53\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:33:25.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex52\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex52\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex52\\Program.cs",
+              "RelativeToolTip": "..\\Ex52\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:32:57.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex51\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex51\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex51\\Program.cs",
+              "RelativeToolTip": "..\\Ex51\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:32:14.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex50\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex50\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex50\\Program.cs",
+              "RelativeToolTip": "..\\Ex50\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:31:27.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex49\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex49\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Ex49\\Program.cs",
+              "RelativeToolTip": "..\\Ex49\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:30:10.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\48\\Program.cs",
+              "RelativeDocumentMoniker": "..\\48\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\48\\Program.cs",
+              "RelativeToolTip": "..\\48\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:28:43.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\bin\Debug\net10.0\Ex31.exe
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\bin\Debug\net10.0\Ex31.deps.json
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\bin\Debug\net10.0\Ex31.runtimeconfig.json
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\bin\Debug\net10.0\Ex31.dll
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\bin\Debug\net10.0\Ex31.pdb
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\obj\Debug\net10.0\Ex31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\obj\Debug\net10.0\Ex31.AssemblyInfoInputs.cache
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\obj\Debug\net10.0\Ex31.AssemblyInfo.cs
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\obj\Debug\net10.0\Ex31.csproj.CoreCompileInputs.cache
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\obj\Debug\net10.0\Ex31.dll
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\obj\Debug\net10.0\refint\Ex31.dll
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\obj\Debug\net10.0\Ex31.pdb
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\obj\Debug\net10.0\Ex31.genruntimeconfig.cache
+C:\Users\Laboratório\Documents\Exercicios\Ex31\Ex31\obj\Debug\net10.0\ref\Ex31.dll

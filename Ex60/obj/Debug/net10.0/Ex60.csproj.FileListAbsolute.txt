@@ -1,0 +1,14 @@
+C:\Users\Usuário\source\repos\Ex60\bin\Debug\net10.0\Ex60.exe
+C:\Users\Usuário\source\repos\Ex60\bin\Debug\net10.0\Ex60.deps.json
+C:\Users\Usuário\source\repos\Ex60\bin\Debug\net10.0\Ex60.runtimeconfig.json
+C:\Users\Usuário\source\repos\Ex60\bin\Debug\net10.0\Ex60.dll
+C:\Users\Usuário\source\repos\Ex60\bin\Debug\net10.0\Ex60.pdb
+C:\Users\Usuário\source\repos\Ex60\obj\Debug\net10.0\Ex60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\Ex60\obj\Debug\net10.0\Ex60.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Ex60\obj\Debug\net10.0\Ex60.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Ex60\obj\Debug\net10.0\Ex60.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Ex60\obj\Debug\net10.0\Ex60.dll
+C:\Users\Usuário\source\repos\Ex60\obj\Debug\net10.0\refint\Ex60.dll
+C:\Users\Usuário\source\repos\Ex60\obj\Debug\net10.0\Ex60.pdb
+C:\Users\Usuário\source\repos\Ex60\obj\Debug\net10.0\Ex60.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\Ex60\obj\Debug\net10.0\ref\Ex60.dll

@@ -1,0 +1,14 @@
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\bin\Debug\net10.0\Lista_1_fabricio.exe
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\bin\Debug\net10.0\Lista_1_fabricio.deps.json
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\bin\Debug\net10.0\Lista_1_fabricio.runtimeconfig.json
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\bin\Debug\net10.0\Lista_1_fabricio.dll
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\bin\Debug\net10.0\Lista_1_fabricio.pdb
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\obj\Debug\net10.0\Lista_1_fabricio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\obj\Debug\net10.0\Lista_1_fabricio.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\obj\Debug\net10.0\Lista_1_fabricio.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\obj\Debug\net10.0\Lista_1_fabricio.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\obj\Debug\net10.0\Lista_1_fabricio.dll
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\obj\Debug\net10.0\refint\Lista_1_fabricio.dll
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\obj\Debug\net10.0\Lista_1_fabricio.pdb
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\obj\Debug\net10.0\Lista_1_fabricio.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\Liesta_1_fabricio\obj\Debug\net10.0\ref\Lista_1_fabricio.dll
