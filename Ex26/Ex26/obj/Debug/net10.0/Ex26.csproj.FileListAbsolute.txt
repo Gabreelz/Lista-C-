@@ -1,0 +1,14 @@
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\bin\Debug\net10.0\Ex26.exe
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\bin\Debug\net10.0\Ex26.deps.json
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\bin\Debug\net10.0\Ex26.runtimeconfig.json
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\bin\Debug\net10.0\Ex26.dll
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\bin\Debug\net10.0\Ex26.pdb
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\obj\Debug\net10.0\Ex26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\obj\Debug\net10.0\Ex26.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\obj\Debug\net10.0\Ex26.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\obj\Debug\net10.0\Ex26.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\obj\Debug\net10.0\Ex26.dll
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\obj\Debug\net10.0\refint\Ex26.dll
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\obj\Debug\net10.0\Ex26.pdb
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\obj\Debug\net10.0\Ex26.genruntimeconfig.cache
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex26\Ex26\obj\Debug\net10.0\ref\Ex26.dll

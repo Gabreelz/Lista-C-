@@ -1,0 +1,14 @@
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\bin\Debug\net10.0\Ex27.exe
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\bin\Debug\net10.0\Ex27.deps.json
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\bin\Debug\net10.0\Ex27.runtimeconfig.json
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\bin\Debug\net10.0\Ex27.dll
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\bin\Debug\net10.0\Ex27.pdb
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\obj\Debug\net10.0\Ex27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\obj\Debug\net10.0\Ex27.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\obj\Debug\net10.0\Ex27.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\obj\Debug\net10.0\Ex27.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\obj\Debug\net10.0\Ex27.dll
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\obj\Debug\net10.0\refint\Ex27.dll
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\obj\Debug\net10.0\Ex27.pdb
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\obj\Debug\net10.0\Ex27.genruntimeconfig.cache
+C:\Users\Gamer\OneDrive\Documentos\Exercicios\Ex27\Ex27\obj\Debug\net10.0\ref\Ex27.dll
