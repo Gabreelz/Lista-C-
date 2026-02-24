@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ganba\\OneDrive\\Desktop\\exercicios\\Ex33\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E439358C-2A95-4C34-9DD9-B8E2C37E9D04}|Ex33\\Ex33.csproj|c:\\users\\ganba\\onedrive\\desktop\\exercicios\\ex33\\ex33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E439358C-2A95-4C34-9DD9-B8E2C37E9D04}|Ex33\\Ex33.csproj|solutionrelative:ex33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ganba\\OneDrive\\Desktop\\exercicios\\Ex33\\Ex33\\Program.cs",
+              "RelativeDocumentMoniker": "Ex33\\Program.cs",
+              "ToolTip": "C:\\Users\\ganba\\OneDrive\\Desktop\\exercicios\\Ex33\\Ex33\\Program.cs",
+              "RelativeToolTip": "Ex33\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T23:42:46.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
