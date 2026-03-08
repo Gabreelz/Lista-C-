@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gamer\\OneDrive\\Documentos\\Exercicios\\Atividade27ao39\\Atividade27ao39\\Atividade27ao39.csproj": {}
+    "C:\\Users\\Gamer\\OneDrive\\Documentos\\C#\\Lista-C-\\Atividade27ao39\\Atividade27ao39\\Atividade27ao39.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gamer\\OneDrive\\Documentos\\Exercicios\\Atividade27ao39\\Atividade27ao39\\Atividade27ao39.csproj": {
+    "C:\\Users\\Gamer\\OneDrive\\Documentos\\C#\\Lista-C-\\Atividade27ao39\\Atividade27ao39\\Atividade27ao39.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gamer\\OneDrive\\Documentos\\Exercicios\\Atividade27ao39\\Atividade27ao39\\Atividade27ao39.csproj",
+        "projectUniqueName": "C:\\Users\\Gamer\\OneDrive\\Documentos\\C#\\Lista-C-\\Atividade27ao39\\Atividade27ao39\\Atividade27ao39.csproj",
         "projectName": "Atividade27ao39",
-        "projectPath": "C:\\Users\\Gamer\\OneDrive\\Documentos\\Exercicios\\Atividade27ao39\\Atividade27ao39\\Atividade27ao39.csproj",
+        "projectPath": "C:\\Users\\Gamer\\OneDrive\\Documentos\\C#\\Lista-C-\\Atividade27ao39\\Atividade27ao39\\Atividade27ao39.csproj",
         "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gamer\\OneDrive\\Documentos\\Exercicios\\Atividade27ao39\\Atividade27ao39\\obj\\",
+        "outputPath": "C:\\Users\\Gamer\\OneDrive\\Documentos\\C#\\Lista-C-\\Atividade27ao39\\Atividade27ao39\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
