@@ -1,0 +1,14 @@
+C:\Users\Usuário\source\repos\Ex40\Ex43_\bin\Debug\net10.0\Ex43_.exe
+C:\Users\Usuário\source\repos\Ex40\Ex43_\bin\Debug\net10.0\Ex43_.deps.json
+C:\Users\Usuário\source\repos\Ex40\Ex43_\bin\Debug\net10.0\Ex43_.runtimeconfig.json
+C:\Users\Usuário\source\repos\Ex40\Ex43_\bin\Debug\net10.0\Ex43_.dll
+C:\Users\Usuário\source\repos\Ex40\Ex43_\bin\Debug\net10.0\Ex43_.pdb
+C:\Users\Usuário\source\repos\Ex40\Ex43_\obj\Debug\net10.0\Ex43_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\Ex40\Ex43_\obj\Debug\net10.0\Ex43_.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Ex40\Ex43_\obj\Debug\net10.0\Ex43_.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Ex40\Ex43_\obj\Debug\net10.0\Ex43_.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Ex40\Ex43_\obj\Debug\net10.0\Ex43_.dll
+C:\Users\Usuário\source\repos\Ex40\Ex43_\obj\Debug\net10.0\refint\Ex43_.dll
+C:\Users\Usuário\source\repos\Ex40\Ex43_\obj\Debug\net10.0\Ex43_.pdb
+C:\Users\Usuário\source\repos\Ex40\Ex43_\obj\Debug\net10.0\Ex43_.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\Ex40\Ex43_\obj\Debug\net10.0\ref\Ex43_.dll
